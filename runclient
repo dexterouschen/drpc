@@ -1,0 +1,2 @@
+cd /afs/cs.pitt.edu/usr0/dextercoder/Public/CS2510_P1C/src
+/afs/cs.pitt.edu/usr0/dextercoder/Public/jre/bin/java main.SomeClient $1 $2

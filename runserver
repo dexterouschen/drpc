@@ -1,0 +1,2 @@
+cd /afs/cs.pitt.edu/usr0/dextercoder/Public/CS2510_P1S/src
+/afs/cs.pitt.edu/usr0/dextercoder/Public/jre/bin/java -cp .:concurrentlinkedhashmap-lru-1.4.jar:jsr305.jar:EJML-core-0.26.jar main.Server
