@@ -26,8 +26,11 @@ javac lib/*.java
 
 
 For convenience of execution, we provide 4 bash files:
-runclient <test cast #> <optional argument>	          For starting a client, test case 1-6,
-                                                      6 is Mutiply, and takes an argument as the size
-runserver										                          For starting a server
-runmapper									                            For starting a mapper
-runcopyofmapper								                        For starting a standby mapper
+runclient <test cast #> <optional argument>
+    For starting a client, test case 1-6, 6 is Mutiply, and takes an argument as the size
+runserver
+    For starting a server
+runmapper
+    For starting a mapper
+runcopyofmapper
+    For starting a standby mapper
